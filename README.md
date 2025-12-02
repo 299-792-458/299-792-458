@@ -10,11 +10,11 @@ AI Researcher · Full-Stack Architect · Systems Leader
 🏆 Achievements - [solved.ac/profile/299x792x458](https://solved.ac/profile/299x792x458) <br>
 📝 Blog - [299-792-458.github.io/log/index](https://299-792-458.github.io/log/index)
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; width:100%; max-width:1040px; margin:0 auto; white-space:nowrap;">
-  <a href="https://github.com/299-792-458" style="display:inline-block; margin-right:56px;">
+<p align="center">
+  <a href="https://github.com/299-792-458" style="display:inline-block; vertical-align:middle; padding-right:12px;">
     <img style="height:180px; display:block;" src="lang-usage.svg" alt="Language Usage" />
   </a>
-  <a href="https://solved.ac/299x792x458" style="display:inline-block; margin-left:56px;">
+  <a href="https://solved.ac/299x792x458" style="display:inline-block; vertical-align:middle; padding-left:12px;">
     <img style="height:180px; display:block;" src="http://mazassumnida.wtf/api/generate_badge?boj=299x792x458" alt="Solved.ac Profile Badge" />
   </a>
-</div>
+</p>
