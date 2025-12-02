@@ -15,6 +15,6 @@ AI Researcher · Full-Stack Architect · Systems Leader
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=299x792x458" alt="Solved.ac Profile Badge" />
   </a>
   <a href="https://github.com/299-792-458">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=299-792-458&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=299-792-458&layout=pie&theme=nord&hide_border=true" alt="Top Languages Pie Chart" />
   </a>
 </div>
