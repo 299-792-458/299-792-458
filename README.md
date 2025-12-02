@@ -1,9 +1,9 @@
-<center>
+<div align="center">
 
 # Hwan
 AI Researcher · Full-Stack Architect · Systems Leader
 
-</center>
+</div>
 
 - Email: [Hwan@onnuripg.com](mailto:Hwan@onnuripg.com)
 - Portfolio: [299-792-458.github.io](https://299-792-458.github.io)
