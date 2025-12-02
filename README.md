@@ -10,7 +10,7 @@ AI Researcher · Full-Stack Architect · Systems Leader
 🏆 Achievements - [solved.ac/profile/299x792x458](https://solved.ac/profile/299x792x458) <br>
 📝 Blog - [299-792-458.github.io/log/index](https://299-792-458.github.io/log/index)
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:12px;">
+<div align="center" style="display:flex; align-items:center; justify-content:space-between; gap:24px; width:100%; max-width:860px; margin:0 auto;">
   <a href="https://github.com/299-792-458" style="display:inline-block;">
     <img style="height:180px; display:block;" src="lang-usage.svg" alt="Language Usage" />
   </a>
