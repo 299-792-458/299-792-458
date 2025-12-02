@@ -11,10 +11,10 @@ AI Researcher · Full-Stack Architect · Systems Leader
 📝 Blog - [299-792-458.github.io/log/index](https://299-792-458.github.io/log/index)
 
 <div align="center">
-  <a href="https://solved.ac/299x792x458">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=299x792x458" alt="Solved.ac Profile Badge" />
-  </a>
   <a href="https://github.com/299-792-458">
     <img align="center" style="height:180px" src="lang-usage.svg" alt="Language Usage" />
+  </a>
+  <a href="https://solved.ac/299x792x458">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=299x792x458" alt="Solved.ac Profile Badge" />
   </a>
 </div>
