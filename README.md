@@ -5,10 +5,10 @@ AI Researcher · Full-Stack Architect · Systems Leader
 
 </div>
 
-📧 Email - [Hwan@onnuripg.com](mailto:Hwan@onnuripg.com) <br>
-📂 Portfolio - [299-792-458.github.io](https://299-792-458.github.io) <br>
-🏆 BOJ - [solved.ac/profile/299x792x458](https://solved.ac/profile/299x792x458) <br>
-📝 Blog - [299-792-458.github.io/log/index](https://299-792-458.github.io/log/index)
+- Email - [Hwan@onnuripg.com](mailto:Hwan@onnuripg.com)
+- Portfolio - [299-792-458.github.io](https://299-792-458.github.io)
+- Blog - [299-792-458.github.io/log/index](https://299-792-458.github.io/log/index)
+- BOJ - [solved.ac/profile/299x792x458](https://solved.ac/profile/299x792x458)
 
 <p align="center">
   <a href="https://github.com/299-792-458" style="display:inline-block; vertical-align:middle; padding-right:12px;">
