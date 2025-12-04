@@ -23,13 +23,6 @@
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35" />
     </filter>
-    <mask id="pieSweep" x="0" y="0" width="400" height="180" maskUnits="userSpaceOnUse">
-      <rect width="400" height="180" fill="black" />
-      <circle cx="110" cy="90" r="64" fill="none" stroke="white" stroke-width="128"
-              stroke-dasharray="0 402.12" stroke-linecap="round" transform="rotate(-90 110 90)">
-        <animate attributeName="stroke-dasharray" from="0 402.12" to="402.12 0" dur="1.2s" begin="0.1s" fill="freeze" />
-      </circle>
-    </mask>
   </defs>
 
   <rect width="400" height="180" rx="16" fill="url(#bg)" />
@@ -40,12 +33,10 @@
   <!-- pie -->
   <g transform="translate(-10 0)" filter="url(#shadow)">
     <circle cx="110" cy="90" r="68" fill="#0b1221" stroke="#1d2840" stroke-width="2" opacity="0.9" />
-    <g mask="url(#pieSweep)">
-      <path d="M 110 90 L 110 26 A 64 64 0 0 1 161.78 127.62 Z" fill="url(#rust)" />
-      <path d="M 110 90 L 161.78 127.62 A 64 64 0 0 1 58.22 127.62 Z" fill="url(#cpp)" />
-      <path d="M 110 90 L 58.22 127.62 A 64 64 0 0 1 58.22 52.38 Z" fill="url(#svelte)" />
-      <path d="M 110 90 L 58.22 52.38 A 64 64 0 0 1 110 26 Z" fill="url(#react)" />
-    </g>
+    <path d="M 110 90 L 110 26 A 64 64 0 0 1 161.78 127.62 Z" fill="url(#rust)" />
+    <path d="M 110 90 L 161.78 127.62 A 64 64 0 0 1 58.22 127.62 Z" fill="url(#cpp)" />
+    <path d="M 110 90 L 58.22 127.62 A 64 64 0 0 1 58.22 52.38 Z" fill="url(#svelte)" />
+    <path d="M 110 90 L 58.22 52.38 A 64 64 0 0 1 110 26 Z" fill="url(#react)" />
   </g>
 
   <g font-family="Arial, sans-serif" font-size="12" fill="#dfe8ff">
